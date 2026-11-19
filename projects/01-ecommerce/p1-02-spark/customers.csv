@@ -1,0 +1,7 @@
+customer_id,registered_on,postal_code,marketing_opt_in
+C-201,2025-11-14,00123,true
+C-202,2026-01-04,30519,false
+C-203,2026-02-28,80702,true
+C-204,2026-03-09,,false
+C-205,2026-06-01,04156,false
+C-206,2026-09-22,50125,true

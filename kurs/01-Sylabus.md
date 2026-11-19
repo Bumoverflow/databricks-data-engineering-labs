@@ -67,7 +67,7 @@ Pakiet do akceptacji opisuje zadania na poziomie sylabusa. Pełne instrukcje, pl
 2.  CSV z ustalonym schematem, zagnieżdżony JSON i Parquet
 3.  select, filter, show, count i widok tymczasowy
 
-**Zadanie** Wgraj próbki z paczki kursu do volume. Porównaj typy, schematy i liczności oraz sprawdź dostęp do tych samych danych z SQL.
+**Zadanie** Wgraj próbki z paczki kursu do volume. Porównaj typy, schematy i liczności oraz sprawdź dostęp do tych samych danych z SQL. [Brief i dane wejściowe P1.2](../projects/01-ecommerce/p1-02-spark/README.md)
 
 **Oczekiwany rezultat** Profil trzech formatów oraz odtwarzalny odczyt wszystkich zbiorów. Przykład transformacji i akcji z objaśnieniem.
 
@@ -486,8 +486,8 @@ Wpisz datę, dowód i status. Możliwe statusy to do zrobienia, w trakcie, do re
 
 | **Moduł** | **Nazwa** | **Czas** | **Status** | **Data i dowód** |
 | --- | --- | --- | --- | --- |
-| [P1.1](#p11-workspace-i-pierwszy-notebook) | Workspace i pierwszy notebook | 1,5 h | W trakcie |  |
-| [P1.2](#p12-spark-i-dane-wejściowe) | Spark i dane wejściowe | 2,5 h | Do zrobienia |  |
+| [P1.1](#p11-workspace-i-pierwszy-notebook) | Workspace i pierwszy notebook | 1,5 h | Zaliczone | Notebook z wynikami i review. Dobór compute omówiony częściowo. Obsługa błędu pobierania do utrwalenia. |
+| [P1.2](#p12-spark-i-dane-wejściowe) | Spark i dane wejściowe | 2,5 h | W trakcie | [Brief](../projects/01-ecommerce/p1-02-spark/README.md) |
 | [P1.3](#p13-bronze-i-delta-lake) | Bronze i Delta Lake | 2,5 h | Do zrobienia |  |
 | [P1.4](#p14-silver-i-jakość-danych) | Silver i jakość danych | 3 h | Do zrobienia |  |
 | [P1.5](#p15-gold-i-raportowanie) | Gold i raportowanie | 2 h | Do zrobienia |  |
