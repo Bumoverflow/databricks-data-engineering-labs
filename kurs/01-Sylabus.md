@@ -47,7 +47,7 @@ Pakiet do akceptacji opisuje zadania na poziomie sylabusa. Pełne instrukcje, pl
 2.  Serverless notebook, serverless job, SQL warehouse oraz classic compute
 3.  Catalog → schema → volume/table i kwalifikowane nazwy
 
-**Zadanie** Otwórz przygotowany notebook i obejrzyj miniaturę danych z zamówieniami. Wybierz compute dla trzech przypadków i uzasadnij wybór przez rozruch, współbieżność i model kosztowy.
+**Zadanie** Utwórz własny notebook i obejrzyj próbkę danych z zamówieniami. Wybierz compute dla trzech przypadków i uzasadnij wybór przez sposób uruchamiania, współbieżność i model kosztowy. [Brief i dane wejściowe P1.1](../projects/01-ecommerce/p1-01-workspace/README.md)
 
 **Oczekiwany rezultat** Notebook z prostym wynikiem i trzema decyzjami o compute. Możesz wskazać plik, tabelę i schemat w Catalog Explorer.
 
@@ -486,7 +486,7 @@ Wpisz datę, dowód i status. Możliwe statusy to do zrobienia, w trakcie, do re
 
 | **Moduł** | **Nazwa** | **Czas** | **Status** | **Data i dowód** |
 | --- | --- | --- | --- | --- |
-| [P1.1](#p11-workspace-i-pierwszy-notebook) | Workspace i pierwszy notebook | 1,5 h | Do zrobienia |  |
+| [P1.1](#p11-workspace-i-pierwszy-notebook) | Workspace i pierwszy notebook | 1,5 h | W trakcie |  |
 | [P1.2](#p12-spark-i-dane-wejściowe) | Spark i dane wejściowe | 2,5 h | Do zrobienia |  |
 | [P1.3](#p13-bronze-i-delta-lake) | Bronze i Delta Lake | 2,5 h | Do zrobienia |  |
 | [P1.4](#p14-silver-i-jakość-danych) | Silver i jakość danych | 3 h | Do zrobienia |  |

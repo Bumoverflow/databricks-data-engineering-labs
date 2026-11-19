@@ -1,0 +1,6 @@
+{"order_id":"ORD-1001","customer_id":"C-201","ordered_at":"2026-10-05T08:41:00Z","status":"fulfilled","items":[{"line_id":1,"product_id":"SKU-031","quantity":2,"unit_price_pln":34.90}]}
+{"order_id":"ORD-1002","customer_id":"C-202","ordered_at":"2026-10-05T10:12:00Z","status":"cancelled","items":[{"line_id":1,"product_id":"SKU-018","quantity":1,"unit_price_pln":119.00}]}
+{"order_id":"ORD-1003","customer_id":"C-203","ordered_at":"2026-10-05T15:25:00Z","status":"fulfilled","items":[{"line_id":1,"product_id":"SKU-024","quantity":1,"unit_price_pln":64.50},{"line_id":2,"product_id":"SKU-031","quantity":1,"unit_price_pln":34.90}]}
+{"order_id":"ORD-1004","customer_id":"C-201","ordered_at":"2026-10-06T07:55:00Z","status":"pending","items":[{"line_id":1,"product_id":"SKU-056","quantity":1,"unit_price_pln":89.00}]}
+{"order_id":"ORD-1005","customer_id":"C-204","ordered_at":"2026-10-06T11:38:00Z","status":"fulfilled","items":[{"line_id":1,"product_id":"SKU-018","quantity":1,"unit_price_pln":119.00},{"line_id":2,"product_id":"SKU-044","quantity":3,"unit_price_pln":12.90}]}
+{"order_id":"ORD-1006","customer_id":"C-205","ordered_at":"2026-10-06T17:02:00Z","status":"fulfilled","items":[{"line_id":1,"product_id":"SKU-044","quantity":2,"unit_price_pln":12.90}]}
